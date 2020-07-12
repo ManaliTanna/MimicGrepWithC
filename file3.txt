@@ -1,0 +1,4 @@
+this is C program for 
+this is the grep command
+grep is a unix command
+grep matches pattern in given files
